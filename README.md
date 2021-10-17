@@ -1,7 +1,7 @@
 # Goroutine Drums
 
 ### How to run
-`go run main`
+`go run main.go player.go colors.go`
 
 ### Files
 ```
